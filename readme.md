@@ -55,6 +55,13 @@ This roadmap outlines a suggested learning path to become a well-rounded MERN st
 
 * **Learn Next.js:** Master Next.js, a framework built on React, for features like server-side rendering, static site generation, and improved performance.
 
+---
+
+**Phase 8: Explore TypeScript (⏳ 1-2 Months)**
+
+* **Introduction to TypeScript:** Understand the benefits of TypeScript for improved type safety and code maintainability in JavaScript projects.
+* **Integrate TypeScript with React and Node.js:** Learn how to integrate TypeScript with your existing MERN stack development for a more robust experience. 
+
 **Tips:**
 
 * Practice consistently by building small projects throughout your learning journey.
