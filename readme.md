@@ -22,6 +22,8 @@ This roadmap outlines a suggested learning path to become a well-rounded MERN st
 * **Practice with React Projects:** Build small React applications to solidify your understanding of component creation and state management.
 * **Explore Advanced React Features:** Dive into routing, forms, context API, hooks (useState, useEffect, etc.) for complex applications.
 
+---
+
 **✅ Phase 3: Styling with CSS Preprocessors (⏳ 1-2 Months)**
 
 * **Learn Sass:** Master Sass syntax for variables, mixins, and functions to improve code maintainability and control over styles.
