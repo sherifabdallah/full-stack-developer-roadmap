@@ -16,21 +16,20 @@ This roadmap outlines a suggested learning path to become a well-rounded full st
 
 ---
 
-**✅ Phase 2: Front-End Development with React and Styling (⏳ 2-3 Months)**
+**✅ Phase 2: Styling with CSS Preprocessors (⏳ 1-2 Months)**
+
+* **Learn Sass:** Master Sass syntax for variables, mixins, and functions to improve code maintainability and control over styles.
+* **Learn Tailwind:**  Master Tailwind as an alternative for rapid development with pre-built classes.
+
+---
+**✅ Phase 3: Front-End Development with React (⏳ 2-3 Months)**
 
 * **Learn React Core Concepts:** Master components, props, state, JSX syntax, and how to build user interfaces with React.
 * **Practice with React Projects:** Build small React applications to solidify your understanding of component creation and state management.
 * **Explore Advanced React Features:** Dive into routing, forms, context API, hooks (useState, useEffect, etc.) for complex applications.
 
 ---
-
-**✅ Phase 3: Styling with CSS Preprocessors (⏳ 1-2 Months)**
-
-* **Learn Sass:** Master Sass syntax for variables, mixins, and functions to improve code maintainability and control over styles.
-* **Learn Tailwind:**  Master Tailwind as an alternative for rapid development with pre-built classes.
-
----
-**Phase 4: Full-Stack Development with Next.js (⏳ 1-2 Months)**
+**Phase 4: Full-Stack Development with Next.js (⏳ 1-2 Months) - (In Progress)** 
 
 * **Learn Next.js:** Master Next.js, a framework built on React, for features like server-side rendering, static site generation, and improved performance.
 
