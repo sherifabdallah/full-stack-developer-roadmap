@@ -1,6 +1,6 @@
 ## Full Stack JavaScript Developer Roadmap
 
-This roadmap outlines a suggested learning path to become a well-rounded MERN stack developer in 2024. It incorporates the core MERN technologies (MongoDB, Express.js, React, and Node.js) and explores additional styling and framework options like Tailwind CSS, Sass, NestJS, and Next.js.
+This roadmap outlines a suggested learning path to become a well-rounded full stack javascript developer in 2024. It incorporates the core MERN technologies (MongoDB, Express.js, React, and Node.js) and explores additional styling and framework options like Tailwind CSS, Sass, NestJS, and Next.js.
 
 **Legend:**
 
@@ -30,8 +30,19 @@ This roadmap outlines a suggested learning path to become a well-rounded MERN st
 * **Learn Tailwind:**  Master Tailwind as an alternative for rapid development with pre-built classes.
 
 ---
+**Phase 4: Full-Stack Development with Next.js (⏳ 1-2 Months)**
 
-**Phase 4: Back-End Development with Node.js and Express (⏳ 2-3 Months)**
+* **Learn Next.js:** Master Next.js, a framework built on React, for features like server-side rendering, static site generation, and improved performance.
+
+---
+
+**Phase 5: Explore TypeScript (⏳ 1-2 Months)**
+
+* **Introduction to TypeScript:** Understand the benefits of TypeScript for improved type safety and code maintainability in JavaScript projects.
+* **Integrate TypeScript with React and Node.js:** Learn how to integrate TypeScript with your existing MERN stack development for a more robust experience. 
+---
+
+**Phase 6: Back-End Development with Node.js and Express (⏳ 2-3 Months)**
 
 * **Understand Node.js:** Grasp the concept of Node.js and its role in running JavaScript outside the browser.
 * **Learn Node.js Fundamentals:** Master modules, the event loop, and asynchronous programming.
@@ -40,29 +51,20 @@ This roadmap outlines a suggested learning path to become a well-rounded MERN st
 
 ---
 
-**Phase 5: Database Integration with MongoDB (⏳ 1-2 Months)**
+**Phase 7: Database Integration with MongoDB (⏳ 1-2 Months)**
 
 * **Understand NoSQL Databases:** Learn the concept of NoSQL databases and the document-oriented structure of MongoDB.
 * **Connect to MongoDB:** Master connecting to MongoDB from your Node.js application using Mongoose.
 
 ---
 
-**Phase 6: Advanced Back-End Development with Frameworks (⏳ 1-2 Months)**
+**Phase 8: Advanced Back-End Development with Frameworks (⏳ 1-2 Months)**
 
 * **Explore NestJS:** Learn NestJS, a framework for building scalable Node.js applications with a structured approach. (Optional, but recommended for larger projects)
 
 ---
 
-**Phase 7: Full-Stack Development with Next.js (⏳ 1-2 Months)**
 
-* **Learn Next.js:** Master Next.js, a framework built on React, for features like server-side rendering, static site generation, and improved performance.
-
----
-
-**Phase 8: Explore TypeScript (⏳ 1-2 Months)**
-
-* **Introduction to TypeScript:** Understand the benefits of TypeScript for improved type safety and code maintainability in JavaScript projects.
-* **Integrate TypeScript with React and Node.js:** Learn how to integrate TypeScript with your existing MERN stack development for a more robust experience. 
 
 **Tips:**
 
