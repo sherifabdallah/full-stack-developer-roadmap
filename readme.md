@@ -1,4 +1,4 @@
-## Full Stack JavaScript Developer Roadmap
+## Full Stack Developer Roadmap
 
 This roadmap outlines a suggested learning path to become a well-rounded full stack javascript developer in 2024. It incorporates the core MERN technologies (MongoDB, Express.js, React, and Node.js) and explores additional styling and framework options like Tailwind CSS, Sass, NestJS, and Next.js.
 
